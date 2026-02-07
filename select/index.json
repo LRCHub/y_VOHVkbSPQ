@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "OVERNIGHT 2025",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-07T03:12:42.406617Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Overnight",
+      "artist": "Desiigner",
+      "has_synced": true,
+      "path": "select/01_Overnight_Desiigner.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Overnight Sensation",
+      "artist": "Accept",
+      "has_synced": true,
+      "path": "select/02_Overnight_Sensation_Accept.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Overnight Sensation",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/03_Overnight_Sensation_Motörhead.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Overnight Sensation",
+      "artist": "Tina Turner",
+      "has_synced": true,
+      "path": "select/04_Overnight_Sensation_Tina_Turner.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Overnight Sensation - Live",
+      "artist": "Tina Turner",
+      "has_synced": true,
+      "path": "select/05_Overnight_Sensation_-_Live_Tina_Turner.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Overnight Success",
+      "artist": "Six by Seven",
+      "has_synced": false,
+      "path": "select/06_Overnight_Success_Six_by_Seven.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Overnight",
+      "artist": "Claud",
+      "has_synced": true,
+      "path": "select/07_Overnight_Claud.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Overnight Sensation (Live Hamburg Germany 1998)",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/08_Overnight_Sensation_(Live_Hamburg_Germany_1998)_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "OVERNIGHT",
+      "artist": "KMNZ",
+      "has_synced": true,
+      "path": "select/09_OVERNIGHT_KMNZ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Overnight",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/10_Overnight_Logic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Overnight Cafe",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/11_Overnight_Cafe_Chicago.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Overnight",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/12_Overnight_Logic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OVERNIGHT",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_OVERNIGHT_KMNZ.txt"
+    }
+  ]
+}
